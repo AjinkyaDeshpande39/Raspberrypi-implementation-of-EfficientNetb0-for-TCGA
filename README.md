@@ -10,7 +10,7 @@ The instruction
 ```
 pip install torch torchvision torchaudio
 ```
-gave me error 
+gave me error when i was following Pytorch's documentation for raspberrypi [installation](https://pytorch.org/tutorials/intermediate/realtime_rpi.html)
 ```
 Traceback (most recent call last):
   File "/usr/bin/pip", line 33, in <module>
