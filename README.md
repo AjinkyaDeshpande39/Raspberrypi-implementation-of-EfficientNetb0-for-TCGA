@@ -107,6 +107,6 @@ After the required library installation, you are good to go for inplementation.
   
 Files uploaded here gui.py, classification.py, ModelFileEfficientNetb0 are required for GUI demonstration. infereceTime.py is written to calculate the averaged inference time over 15 images. Run the file gui.py by   ```python3 gui.py`` and you will observe a graphical user interface. You can upload files there and test the model. The demo is shown in *video* [here](https://youtu.be/DNJapxg45_M)
   
-![Image](https://github.com/AjinkyaDeshpande39/Raspberrypi-iot/blob/master/EfficientNetb0%20implementation%20for%20TCGA/RPi%20GUI%20demo.jpg)
+![Image](https://github.com/AjinkyaDeshpande39/Raspberrypi-implementation-of-EfficientNetb0-for-TCGA/blob/main/RPi%20GUI%20demo.jpg)
 
 ###Note that the model weights and image samples are not published on github due to matter of confidentiality.
